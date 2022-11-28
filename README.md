@@ -1,6 +1,6 @@
-# Welcome to Potluck
+# Welcome to Potluck WebApp
 
-Tailwind CSS uses [Next.js](https://nextjs.org/) for its documentation. Here is how you can run the project locally:
+Tailwind CSS, its documentation. Here is how you can run the project locally:
 
 1. Download Vs Code 
 
