@@ -10,7 +10,7 @@ Tailwind CSS uses [Next.js](https://nextjs.org/) for its documentation. Here is 
 2. Open Vs Code Terminal 
 
     ```sh
-    ![image](https://user-images.githubusercontent.com/113290176/204303708-0605faa6-b97c-4c7a-851b-9819d54a290f.png)
+    Open Vs Code Terminal 
     ```
 
 
@@ -41,11 +41,11 @@ Tailwind CSS uses [Next.js](https://nextjs.org/) for its documentation. Here is 
 7. Download Extentions
 
     ```sh
-    ![image](https://user-images.githubusercontent.com/113290176/204304731-4c5ec09b-dd96-4321-9320-f718c9ba2e48.png)
+    Live Server , Prettier - Code formatter
     ```
 
 8. Open HTML File with Live server
 
     ```sh
-    ![image](https://user-images.githubusercontent.com/113290176/204304598-703f34bc-72fe-4fff-9b9c-1053c0d10a2b.png)
+    find html file in src Folder and Click Right open with live server
     ```
