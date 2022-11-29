@@ -1,5 +1,14 @@
 {
   "devDependencies": {
     "tailwindcss": "^3.2.4"
+  },
+  "scripts": {
+    "build-css": "tailwindcss build style.css -o public/style.css",
+    "alpinjs-dev": "npx esbuild index.html --outfile=dist/bundle.js --bundle"
+  },
+  "dependencies": {
+    "@tailwindcss/forms": "^0.3.3",
+    "alpinejs": "^3.2.2",
+    "esbuild": "^0.12.15"
   }
 }
